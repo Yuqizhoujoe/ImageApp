@@ -1,0 +1,11 @@
+.PhotoEditor {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    margin-top: 4rem;
+}
+
+.Paragraph {
+    font-size: 1.5rem;
+    font-weight: bold;
+}
